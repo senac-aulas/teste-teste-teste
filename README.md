@@ -1,6 +1,6 @@
 # Projeto MVC - Landing Page TechSolutions
 
-Este é um projeto MVC (Model-View-Controller) desenvolvido com Node.js, Express e EJS, criando uma landing page moderna e responsiva para a empresa TechSolutions.
+teste Este é um projeto MVC (Model-View-Controller) desenvolvido com Node.js, Express e EJS, criando uma landing page moderna e responsiva para a empresa TechSolutions.
 
 ## 🚀 Tecnologias Utilizadas
 
